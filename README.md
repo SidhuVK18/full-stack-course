@@ -1,1 +1,3 @@
 # full-stack-course
+hai sidhu I created this new repository !!!!!
+this repository will be used only by us to convey our doughts and exhange our codes when we are apart.....
